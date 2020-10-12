@@ -1,6 +1,6 @@
-# dS2LBI
+# DessiLBI
 
-This is the project page for dS2LBI. It is an optimization toolbox for <a href="https://pytorch.org/"> <b>Pytorch.</b>
+This is the project page for DessiLBI. It is an optimization toolbox for <a href="https://pytorch.org/"> <b>Pytorch.</b>
 
 # Prerequisites
 Pytorch 1.0 +
