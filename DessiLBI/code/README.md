@@ -1,4 +1,4 @@
-# dS2LBI 
+# DessiLBI
 To initialize the toolbox, the following codes are needed.
 ```python
 from slbi_toolbox import SLBI_ToolBox
