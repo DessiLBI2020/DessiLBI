@@ -1,4 +1,4 @@
-# Exploring Structural Sparsity of Deep Networks via Inverse Scale Spaces.  [Link]("https://arxiv.org/pdf/1905.09449.pdf")
+# Exploring Structural Sparsity of Deep Networks via Inverse Scale Spaces.  [Link] ("https://arxiv.org/pdf/1905.09449.pdf")
  (Extended Version of DessiLBI: Exploring Structural Sparsity of Deep Networks via Differential Inclusion Paths ICML2020)
 Yanwei Fu, Chen Liu, Donghao Li, Zuyuan Zhong, Xinwei Sun, Jinshan Zeng, Yuan Yao
 # DessiLBI: Exploring Structural Sparsity of Deep Networks via Differential Inclusion Paths (ICML 2020)
