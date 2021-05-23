@@ -93,6 +93,6 @@ This part of code is included in example/cifar_prune. To conduct this demo, plea
  To visualize the sparse structue, please use vis.sh
  
  # Filter Visualization Example
- We use the visualization code of [Pytorch CNN Visualization](https://github.com/utkuozbulak/pytorch-cnn-visualizations) to visualize the filters. We give one example for visualization of LeNt on MNIST in example/mnist_plot_example
+[Pytorch CNN Visualization](https://github.com/utkuozbulak/pytorch-cnn-visualizations) is used to visualize the filters. We give one example for visualization of LeNt on MNIST in example/mnist_plot_example
  
 
