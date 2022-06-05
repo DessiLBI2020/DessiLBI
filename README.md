@@ -1,4 +1,4 @@
-# Exploring Structural Sparsity of Deep Networks via Inverse Scale Spaces.
+# Exploring Structural Sparsity of Deep Networks via Inverse Scale Spaces. TPAMI 2022
 [Arxiv Link](https://arxiv.org/pdf/1905.09449.pdf)
 
 TPAMI 2022 [Early Access](https://ieeexplore.ieee.org/document/9762064)
