@@ -30,7 +30,18 @@ DessiLBI: Exploring Structural Sparsity of Deep Networks via Differential Inclus
 
 # Visualization on MNIST
 ![image](https://github.com/DessiLBI2020/DessiLBI/blob/master/pics/MINST_epoch_vs_norm_add_init_dessilbi.jpg)
-
+Visualization of solution path and filter patterns in
+			the third convolutional layer (i.e., conv.c5) of LetNet-5, trained
+			on MNIST. The left figure shows the magnitude changes for each filter
+			of the models trained by DessiLBI  and SGD, where $x$-axis and $y$-axis
+			indicate the training epochs, and filter magnitudes ($\ell_{2}$-norm),
+			respectively. The DessiLBI  path of filters selected in the support
+			of $\Gamma$ are drawn in blue color, while the red color curves represent
+			the filters that are not important and outside the support of $\Gamma$.
+			at 20 (purple), 40 (green), and 80 (black) epochs, which are shown in
+			the right figure with the corresponding color bounding boxes,
+			purple, green, and black, respectively. It shows that our DessiLBI  enjoys
+			a sparse selection of filters without sacrificing accuracy 
 
 # DessiLBI
 
