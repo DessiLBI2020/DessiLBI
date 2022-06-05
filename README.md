@@ -22,7 +22,7 @@ the effective sparse network structures with comparable test accuracy to fully t
 transferable to similar alternative tasks. Furthermore, our method is able to grow networks efficiently with adaptive filter configurations,
 demonstrating a good performance with much less computational cost.
 ## Short Version
-DessiLBI: Exploring Structural Sparsity of Deep Networks via Differential Inclusion Paths (ICML 2020) [Link](https://arxiv.org/pdf/2007.02010.pdf)
+DessiLBI: Exploring Structural Sparsity of Deep Networks via Differential Inclusion Paths (ICML 2020) [Link](http://proceedings.mlr.press/v119/fu20d/fu20d.pdf)
 
 
 
