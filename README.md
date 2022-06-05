@@ -30,8 +30,8 @@ DessiLBI: Exploring Structural Sparsity of Deep Networks via Differential Inclus
 
 # Visualization on MNIST
 ![image](https://github.com/DessiLBI2020/DessiLBI/blob/master/pics/MINST_epoch_vs_norm_add_init_dessilbi.jpg)
-Visualization of solution path and filter patterns in
-			the third convolutional layer (i.e., conv.c5) of LetNet-5, trained
+
+Visualization of solution path and filter patterns in the third convolutional layer (i.e., conv.c5) of LetNet-5, trained
 			on MNIST. The left figure shows the magnitude changes for each filter
 			of the models trained by DessiLBI  and SGD, where $x$-axis and $y$-axis
 			indicate the training epochs, and filter magnitudes ($\ell_{2}$-norm),
