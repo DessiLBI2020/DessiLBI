@@ -28,6 +28,8 @@ demonstrating a good performance with much less computational cost.
 ## Short Version
 DessiLBI: Exploring Structural Sparsity of Deep Networks via Differential Inclusion Paths (ICML 2020) [Link](http://proceedings.mlr.press/v119/fu20d/fu20d.pdf)
 
+# Visualization on MNIST
+![image](https://github.com/DessiLBI2020/DessiLBI/blob/master/pics/MINST_epoch_vs_norm_add_init_dessilbi.jpg)
 
 
 # DessiLBI
