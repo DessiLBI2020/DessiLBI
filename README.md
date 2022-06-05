@@ -37,7 +37,7 @@ This is the project page for DessiLBI. It is an optimization toolbox for <a href
 # Prerequisites
 Pytorch 1.0 +
 Numpy  
-Python 3  
+Python 3+
 CUDA
 # Installation
 It is install-free, just put the slbi_opt.py and slbi_toolbox.py into the the project folder and import them. 
